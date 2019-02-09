@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b85bf4-8589-4beb-ac58-f60a699656cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../How2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../How2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../How2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../How2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../How2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../How2/How2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HowToSolveAProblem/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rechteck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Einrichtung/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Einrichtung/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Schleifen/Rechteck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Schleifen/Rechteck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../filetypes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project.default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../markdown.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,22 +21,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Schleifen" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+            <state relative-caret-position="374">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../PZP_Aenton/Zusamenfassung.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -89,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,12 +113,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549564933765" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PZP_Feb19/Zusamenfassung.md" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549565541472" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PZP_Viktor/Hausaufgaben_040219" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,16 +169,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50080776" side_tool="true" weight="0.2553305" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,26 +198,34 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../PZP_Aenton/Zusamenfassung.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../PZP_Feb19/Zusamenfassung.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
