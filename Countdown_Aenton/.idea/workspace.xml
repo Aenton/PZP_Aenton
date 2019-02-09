@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4164eb-2a5b-4d92-951f-cce3558bb448" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Countdown_Aenton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Einrichtung/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Einrichtung/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Schleifen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Schleifen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Schleifen/out/production/Schleifen/Rechteck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Schleifen/out/production/Schleifen/Rechteck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../filetypes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddEven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OddEven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddEven/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OddEven/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,7 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549720066983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549724934777" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PZP_Aenton/Scanner" />
   </component>
   <component name="RunDashboard">
@@ -162,7 +152,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
