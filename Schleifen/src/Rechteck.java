@@ -15,15 +15,23 @@ public class Rechteck {
         System.out.println("Gefuellt  =1 oder leer = 0?");
         int fuellung = Eingabe.nextInt();
         System.out.println();
-        String fuellzeichen = "*";
+        String fuellzeichen = "";
                                     //HIER darueber musste dem BEZEICHNER "fuellzeichen" ein Standardwert gegeben werden,falls etwas anderes als 0 oder 1 auftritt!!!
         if(fuellung == 1){
             fuellzeichen = "#";
-        }else if(fuellung == 0){
+        }
+        else if(fuellung == 0){
             fuellzeichen = " ";
 
         }
-                                        //Breite 1. Zeile folgt:
+        else if(fuellung ==2)    {
+            int fuellzahl = 1;
+
+        }else{
+            fuellzeichen = "*";
+        }
+
+                                    //Breite 1. Zeile folgt:
         for (int b = 0; b < breite; b++) {
             System.out.print("#");
         }
@@ -36,7 +44,13 @@ public class Rechteck {
             System.out.print("#");
                                          //innere Zeichen
             for (int b = 0; b < breite -2; b++) {
+
+               /* ist fuellung = 1
+                        mache das
                 System.out.print(fuellzeichen);
+                ist füllung = 2
+                        mache etwas anderes
+                        */
             }
                                         //letztes Zeichen der Zeile
             System.out.print("#\n");
