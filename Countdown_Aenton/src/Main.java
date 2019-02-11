@@ -1,3 +1,4 @@
+import java.awt.*;
 import java.util.concurrent.TimeUnit;
 import java.util.Scanner;
 
@@ -11,10 +12,10 @@ public class Main {
 
         System.out.print("gib einen Countdown-Beginn ein: ");
 
-        int Zahl = meinCountdown.nextInt();
+        int  Zahl = meinCountdown.nextInt();
 
                         // for ( Zaehler Startwert; Bedingung x erfüllt; Zähle runter;)
-        for (int zaehler = Zahl; zaehler >= 0; zaehler--) {
+        for (int zaehler = Zahl; zaehler >= 0; zaehler --) {
 
             schlafen();
 

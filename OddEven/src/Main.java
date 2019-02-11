@@ -15,11 +15,11 @@ public class Main {
 
                 //ab hier übergeordnete WhileSchleife - solange gilt : "Nochmal=ja" wird weiter abgefragt.
 
-            System.out.println("Eine Zahl unter 100 Mio!: ");
+            System.out.println("Gib eine Zahl unter 100 Mio. ein!: ");
 
             int Zahl = Waskommt.nextInt();
 
-                // Das hier drunter ist die Modulo.Rechnung - "((Variable % x) Restwert y)".
+                // Das hier drunter ist die Modulo.Rechnung - "((Variable % x)== Restwert y)".
 
             if ((Zahl % 2) == 1) {
 
