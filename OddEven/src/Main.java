@@ -11,7 +11,7 @@ public class Main {
 
         String Nochmal = "ja";
 
-        while ( Nochmal.equals("ja")) {
+            while ( Nochmal.equals("ja")) {
 
                 //ab hier übergeordnete WhileSchleife - solange gilt : "Nochmal=ja" wird weiter abgefragt.
 
